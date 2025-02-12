@@ -16,9 +16,7 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: abhinavtodmal
-          outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
+          outputs: dist/github-contribution-grid-snake.svg
 
       - name: Push Generated Snake
         uses: JamesIves/github-pages-deploy-action@v4
