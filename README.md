@@ -1,27 +1,107 @@
 <h1 align="center">Hi 👋, I'm Abhinav Todmal</h1>
 <h3 align="center">Passionate Full Stack Developer with expertise in building scalable and user-friendly applications. Skilled in frontend and backend technologies, I enjoy solving complex problems and optimizing performance. Always eager to learn and innovate!</h3>
 
-<img align ="right" alt="coding" width = "400" src="https://i.pinimg.com/originals/03/a4/a5/03a4a5f034bf0bafa661fd8a8aabedc8.gif">
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavtodmal&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavtodmal" /> </p>
-
-- 🔭 I’m currently working on **AI for Wildfire Detection and Suppression**
-
-- 🌱 I’m currently learning **React**
-
-- 📫 How to reach me **abhinavtodmal121@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abhinav todmal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinav todmal" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abhinav_todmal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhinav_todmal" height="30" width="40" /></a>
+### 🎉 **Welcome to My Profile!**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=I'm+Abhinav+Todmal;Full+Stack+Web+Developer;AI+Enthusiast;Problem+Solver" alt="Dynamic Welcome Message" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/03/a4/a5/03a4a5f034bf0bafa661fd8a8aabedc8.gif" alt="Coding GIF" width="400">
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinavtodmal&show_icons=true&locale=en&layout=compact" alt="abhinavtodmal" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinavtodmal&show_icons=true&locale=en" alt="abhinavtodmal" /></p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=abhinavtodmal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
+  <a href="https://github.com/abhinavtodmal?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/abhinavtodmal?color=green&logo=github">
+  </a>
+  <a href="https://github.com/abhinavtodmal">
+    <img src="https://img.shields.io/github/stars/abhinavtodmal?logo=github" alt="GitHub stars">
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavtodmal&" alt="abhinavtodmal" /></p>
+---
+
+### 💪 **Currently Working On**
+<p align="center">AI for Wildfire Detection and Suppression</p>
+
+### 🌱 **Currently Learning**
+<p align="center">React</p>
+
+### 📧 **How to Reach Me**
+<p align="center">Email: <a href="mailto:abhinavtodmal121@gmail.com">abhinavtodmal121@gmail.com</a></p>
+
+---
+
+### 👨‍💻 **Connect with Me**
+<p align="center">
+  <a href="https://linkedin.com/in/abhinav-todmal" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.leetcode.com/abhinav_todmal" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+  <a href="https://github.com/abhinavtodmal" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+### 🔧 **Tech Stack**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,java,spring,python,html,css,bootstrap,mysql,postgres,git,github" alt="Tech Stack" />
+</p>
+
+---
+
+### 💥 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhinavtodmal&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavtodmal&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abhinavtodmal&theme=tokyonight&column=6&row=1" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 🔥 **Recent GitHub Activity**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinavtodmal&theme=react-dark" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+### 🐍 **Contribution Graph**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhinavtodmal/abhinavtodmal/output/snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+### 😂 **Joke of the Day**
+<details>
+  <summary>See joke</summary>
+  <p align="center">
+    <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
+  </p>
+</details>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting!;See+you+next+time!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Thank You Message" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
+</p>
