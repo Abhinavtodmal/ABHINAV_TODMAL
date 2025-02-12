@@ -83,7 +83,7 @@
 
 ### 🐍 **Contribution Graph**
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhinavtodmal/abhinavtodmal/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Abhinavtodmal/abhinavtodmal/refs/heads/main/.github/workflows/snake.yml" alt="Snake animation" />
 </p>
 
 ---
