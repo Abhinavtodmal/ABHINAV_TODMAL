@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhinav Todmal</h1>
 <h3 align="center">Passionate Full Stack Developer with expertise in building scalable and user-friendly applications. Skilled in frontend and backend technologies, I enjoy solving complex problems and optimizing performance. Always eager to learn and innovate!</h3>
 
-<img align ="right" alt="coding" width = "400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F757801074786333632%2F&psig=AOvVaw23lbok6JrBbF2qTEiLEskb&ust=1739454167807000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIDjqPChvosDFQAAAAAdAAAAABAE](https://i.pinimg.com/originals/03/a4/a5/03a4a5f034bf0bafa661fd8a8aabedc8.gif)">
+<img align ="right" alt="coding" width = "400" src="https://i.pinimg.com/originals/03/a4/a5/03a4a5f034bf0bafa661fd8a8aabedc8.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavtodmal&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavtodmal" /> </p>
 
