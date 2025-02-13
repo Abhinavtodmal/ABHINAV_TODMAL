@@ -2,16 +2,17 @@
 <h3 align="center">Passionate Full Stack Developer with expertise in building scalable and user-friendly applications. Skilled in frontend and backend technologies, I enjoy solving complex problems and optimizing performance. Always eager to learn and innovate!</h3>
 
 ---
-
-### 🎉 **Welcome to My Profile!**
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=I'm+Abhinav+Todmal;Full+Stack+Web+Developer;AI+Enthusiast;Problem+Solver" alt="Dynamic Welcome Message" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&weight=800&size=35&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=500&lines=🎉+Welcome+to+My+Profile!;I'm+Abhinav+Todmal;💻+Full+Stack+Web+Developer;🧩+Problem+Solver" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/03/a4/a5/03a4a5f034bf0bafa661fd8a8aabedc8.gif" alt="Coding GIF" width="400">
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code:bold&size=32&center=true&width=480&height=60&duration=4000&pause=1000&multicolor=true&color=FF00FF,FF007F,00FFFF,00FF7F&lines=📚+Always+learning+new+things;🔥+Passionate+about+coding;🚀+Creating+innovative+solutions" alt="Dynamic Welcome Message" />
+</p>
 ---
 
 <p align="center"> 
