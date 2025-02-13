@@ -3,21 +3,23 @@ name: GitHub Snake Game
 on:
   schedule:
     - cron: "0 0 * * *"  # Runs daily at midnight UTC
-
   workflow_dispatch:  # Allows manual triggering
-
   push:
     branches:
       - main  # Runs on push to the main branch
+
+permissions:
+  contents: write  # Grants write permission for pushing
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
-
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v4  # Updated to the latest version
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Ensure full commit history
 
       - name: Generate GitHub Contributions Snake Animations
         uses: Platane/snk@v3
