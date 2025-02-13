@@ -40,9 +40,10 @@
 
 ### 👨‍💻 **Connect with Me**
 <p align="center">
-  <a href="https://linkedin.com/in/abhinav-todmal" target="_blank">
+ <a href="https://www.linkedin.com/in/abhinav-todmal-32249825b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+</a>
+
   <a href="https://www.leetcode.com/abhinav_todmal" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
