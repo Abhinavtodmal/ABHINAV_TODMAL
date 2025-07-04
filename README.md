@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/83/5d/32/835d32d1a43f5a9b4dfa6e1b6c8f1f8e.gif" alt="DevOps GIF" width="500">
+  <img src="https://i.pinimg.com/originals/03/a4/a5/03a4a5f034bf0bafa661fd8a8aabedc8.gif" alt="Coding GIF" width="400">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code:bold&size=32&center=true&width=480&height=60&duration=4000&pause=1000&multicolor=true&color=FF00FF,FF007F,00FFFF,00FF7F&lines=📚+Always+learning+new+tech;🔥+Passionate+about+automation;🚀+Building+scalable+systems;☁️+Cloud+Native+Solutions" alt="Dynamic Welcome Message" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&weight=800&size=35&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=500&lines=🚀📚+Always+learning+new+things;🔥+Passionate+about+coding;🚀+Creating+innovative+solutions" alt="Typing SVG" />
 </p>
 
 <p align="center"> 
@@ -27,10 +27,10 @@
 ---
 
 ### 💪 **Currently Working On**
-<p align="center">AI for Wildfire Detection and Suppression | CI/CD Pipeline Optimization</p>
+<p align="center"> Prometheus & Grafana | CI/CD Pipeline Optimization</p>
 
 ### 🌱 **Currently Learning**
-<p align="center">Advanced Kubernetes | Terraform Modules | React Performance Optimization</p>
+<p align="center"> Terraform Modules | React Performance Optimization</p>
 
 ### 📧 **How to Reach Me**
 <p align="center">Email: <a href="mailto:abhinavtodmal121@gmail.com">abhinavtodmal121@gmail.com</a></p>
@@ -107,19 +107,18 @@
 
 ### 🏆 **DevOps Certifications**
 <p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Certified_Kubernetes_Administrator-CKA-blue?logo=kubernetes" alt="CKA" />
+  <a href="https://www.udemy.com/certificate/UC-8a04d160-8ad5-4037-a099-bdc0d73e5efa/" target="_blank">
+    <img src="https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Cloud Practitioner" />
+  </a>
+  <a href="https://www.udemy.com/certificate/UC-ea3242f7-1a75-4711-a97d-f4b71e0680e1/" target="_blank">
+    <img src="https://img.shields.io/badge/DevOps_Beginner_to_Advanced-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="DevOps Beginner to Advanced" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/AWS_Certified_DevOps_Professional-DOP-blue?logo=amazonaws" alt="AWS DevOps" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Terraform_Associate-Hashicorp-purple?logo=terraform" alt="Terraform" />
+    <img src="https://img.shields.io/badge/Terraform_Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
   </a>
 </p>
 
 ---
-
 ### 😂 **Joke of the Day**
 <details>
   <summary>See joke</summary>
@@ -128,12 +127,13 @@
   </p>
 </details>
 
+
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting+my+profile!;Let's+connect+and+collaborate!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Thank You Message" />
+<p align="center" style="margin: 2em 0">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting+my+profile!;Let's+connect+and+collaborate!&font=Fira+Code&center=true&width=500&height=70&duration=4000&pause=1000&color=9ECE6A&background=1A1B26&vCenter=true&size=26&weight=600" alt="Thank You Message" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9ece6a,50:f7768e,100:7dcfff&height=120&section=footer&animation=fadeIn&fontSize=30" alt="Footer" />
 </p>
