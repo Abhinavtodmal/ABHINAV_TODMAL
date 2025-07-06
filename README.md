@@ -26,12 +26,6 @@
 
 ---
 
-### 💪 **Currently Working On**
-<p align="center"> Prometheus & Grafana | CI/CD Pipeline Optimization</p>
-
-### 🌱 **Currently Learning**
-<p align="center"> Terraform Modules | React Performance Optimization</p>
-
 ### 📧 **How to Reach Me**
 <p align="center">Email: <a href="mailto:abhinavtodmal121@gmail.com">abhinavtodmal121@gmail.com</a></p>
 
@@ -66,11 +60,6 @@
 #### 🗄️ Databases
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" alt="Database Stack" />
-</p>
-
-#### 🔄 Version Control
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab" alt="Version Control" />
 </p>
 
 ---
